@@ -25,3 +25,4 @@ end
 require 'did_you_mean/finders/name_error_finders'
 require 'did_you_mean/finders/attribute_finder'
 require 'did_you_mean/finders/method_finder'
+require 'did_you_mean/finders/column_finder'
